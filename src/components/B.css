@@ -1,0 +1,11 @@
+button{
+    width:10rem;
+    padding:.4rem 1rem;
+    margin:1rem;
+    outline:none;
+    border:1px solid black;
+    border-radius: .19rem;
+}
+.b-red{
+    background: red;
+}
